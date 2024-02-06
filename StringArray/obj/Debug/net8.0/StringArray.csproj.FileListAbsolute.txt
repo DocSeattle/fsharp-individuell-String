@@ -1,0 +1,14 @@
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\bin\Debug\net8.0\StringArray.exe
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\bin\Debug\net8.0\StringArray.deps.json
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\bin\Debug\net8.0\StringArray.runtimeconfig.json
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\bin\Debug\net8.0\StringArray.dll
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\bin\Debug\net8.0\StringArray.pdb
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\obj\Debug\net8.0\StringArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\obj\Debug\net8.0\StringArray.AssemblyInfoInputs.cache
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\obj\Debug\net8.0\StringArray.AssemblyInfo.cs
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\obj\Debug\net8.0\StringArray.csproj.CoreCompileInputs.cache
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\obj\Debug\net8.0\StringArray.dll
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\obj\Debug\net8.0\refint\StringArray.dll
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\obj\Debug\net8.0\StringArray.pdb
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\obj\Debug\net8.0\StringArray.genruntimeconfig.cache
+D:\Skolkaos\fördjupning programmering\individuell-uppgift\StringArray\StringArray\obj\Debug\net8.0\ref\StringArray.dll
